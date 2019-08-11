@@ -27,6 +27,12 @@ There are three ways to install getmdl-select:
     ```bash
     git clone https://github.com/CreativeIT/getmdl-select.git
     ```
+ 4. Include the files via [jsDelivr CDN](https://www.jsdelivr.com):
+
+    ```html
+    <script src="https://cdn.jsdelivr.net/npm/getmdl-select@2/getmdl-select.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/getmdl-select@2/getmdl-select.min.css">
+    ```
     
     Alternatively you can [download](https://github.com/CreativeIT/getmdl-select/archive/master.zip)
 this repository and then:
